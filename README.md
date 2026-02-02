@@ -10,10 +10,10 @@ Once the pose estimation stage is completed, the predicted joint coordinates are
 
 Using the same pose-derived features, we then train and evaluate several classifiers, including neural models (MLPs) and classical machine learning method such as Random Forests. In addition, we also test the same classification pipeline using a set of manually annotated action labels.
 
+This archive contains our code, the project report and the file containing manually annotated action labels.
+
 ## Data:
 The Dataset we used is the Leeds Sports Pose (LSP) Dataset https://www.kaggle.com/datasets/dkrivosic/leeds-sports-pose-lsp?select=images
-
-This archive contains our code, the project report and the file containing manually annotated action labels.
 
 ## References
 - Xiao, B., Wu, H., & Wei, Y. (2018). *Simple Baselines for Human Pose Estimation and Tracking*.
